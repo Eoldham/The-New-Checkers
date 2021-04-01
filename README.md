@@ -10,7 +10,7 @@
 
 ## Author: 
 Emily Oldham <br>
-owlanne@udel.edu
+owlanne@udel.edu <br>
 Tyler Werman
 
 
