@@ -5,7 +5,8 @@ This is a two player game based around a board. You start the game by choosing p
 
 ## Preview: 
 
-Uploading Final Project Demonstration.mp4…
+https://user-images.githubusercontent.com/54590979/113365603-bc2b6b80-9324-11eb-861c-7544a84d74dc.mp4
+
 
 
 
